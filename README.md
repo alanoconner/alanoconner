@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Azamat
 
-<!--
-**alanoconner/alanoconner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** with over **two years of professional experience** in building scalable web platforms and enterprise systems.  
+I specialize in developing **business process (BP) platforms** and **software solutions for hospitals**, combining reliability, usability, and performance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Current Work
+I am currently working on a **nurse shift scheduling system** for a hospital.  
+The project involves optimizing complex scheduling constraints and automating shift generation to improve hospital workflow efficiency.
+
+---
+
+### 🧠 Tech Stack
+**Frontend:** Vue 3, React, TypeScript, Tailwind CSS  
+**Backend:** Python, Flask, Node.js, Django, Kotlin
+**Databases:** PostgreSQL, MySQL, 
+**DevOps / Cloud:** Docker, AWS, Nginx  
+**Other:** REST APIs, Git
+
+---
+
+### ⚙️ Areas of Expertise
+- Full stack web development  
+- Business process automation  
+- Optimization and scheduling algorithms  
+- API and database design
+
+---
+
+### 📬 Contact
+**akhmadullin01@gmail.com**  
+https://akhmadull.in
+Fukuoka, Japan  
+
+---
+
+> 💡 *I enjoy building efficient systems that make real processes simpler and smarter.*
