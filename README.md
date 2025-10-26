@@ -30,7 +30,7 @@ The project involves optimizing complex scheduling constraints and automating sh
 
 ### 📬 Contact
 **akhmadullin01@gmail.com**  
-https://akhmadull.in
+**https://akhmadull.in** 
 Fukuoka, Japan  
 
 ---
