@@ -5,22 +5,22 @@ I specialize in developing **business process (BP) platforms** and **software so
 
 ---
 
-### 💻 Current Work
+### Current Work
 I am currently working on a **nurse shift scheduling system** for a hospital.  
 The project involves optimizing complex scheduling constraints and automating shift generation to improve hospital workflow efficiency.
 
 ---
 
-### 🧠 Tech Stack
-**Frontend:** Vue 3, React, TypeScript, Tailwind CSS  
+### Tech Stack
+**Frontend:** Vue 3, React, TypeScript, Tailwind CSS
 **Backend:** Python, Flask, Node.js, Django, Kotlin
-**Databases:** PostgreSQL, MySQL, 
-**DevOps / Cloud:** Docker, AWS, Nginx  
+**Databases:** PostgreSQL, MySQL
+**DevOps / Cloud:** Docker, AWS, Nginx
 **Other:** REST APIs, Git
 
 ---
 
-### ⚙️ Areas of Expertise
+### Areas of Expertise
 - Full stack web development  
 - Business process automation  
 - Optimization and scheduling algorithms  
@@ -28,10 +28,8 @@ The project involves optimizing complex scheduling constraints and automating sh
 
 ---
 
-### 📬 Contact
+### Contact
 **akhmadullin01@gmail.com**  
 **https://akhmadull.in** 
 
 ---
-
-> 💡 *I enjoy building efficient systems that make real processes simpler and smarter.*
