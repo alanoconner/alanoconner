@@ -12,11 +12,11 @@ The project involves optimizing complex scheduling constraints and automating sh
 ---
 
 ### Tech Stack
-**Frontend:** Vue 3, React, TypeScript, Tailwind CSS
-**Backend:** Python, Flask, Node.js, Django, Kotlin
-**Databases:** PostgreSQL, MySQL
-**DevOps / Cloud:** Docker, AWS, Nginx
-**Other:** REST APIs, Git
+**Frontend:** Vue 3, React, TypeScript, Tailwind CSS  
+**Backend:** Python, Flask, Node.js, Django, Kotlin  
+**Databases:** PostgreSQL, MySQL  
+**DevOps / Cloud:** Docker, AWS, Nginx  
+**Other:** REST APIs, Git  
 
 ---
 
