@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Azamat
 
-I'm a **Full Stack Developer** with over 2 years of professional experience in building scalable web platforms and enterprise systems.  
+I'm a **Full Stack Developer** with over 3 years of professional experience in building scalable web platforms and enterprise systems.  
 I specialize in developing business process platforms and software solutions for hospitals, combining reliability, usability, and performance.
 
 ---
